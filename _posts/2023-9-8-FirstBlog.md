@@ -1,13 +1,12 @@
 ---
-layout:article
-title:"我的第一条博客——自我介绍"
+layout: article
+title: 我的第一条博客——自我介绍
+tags：Blog
 ---
 
 # 我的爱好
 
-平时喜欢看动画和打游戏
-
-![](C:\Users\LunaTic\Desktop\275%H]V)6LLIU%ET4U$(X$P.png)
+平时喜欢看动画，打打游戏，最近新学习了贝斯，希望熟练后能有机会和别人一起演奏
 
 # 我的成就与专业水平
 
